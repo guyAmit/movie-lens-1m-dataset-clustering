@@ -7,4 +7,6 @@ this is a university assignment. the definitions below belongs to dr.sabto at th
 this repo is protected under M.I.T license
 
 ## info on the project
-for actual deteails on the project read the readme jupyter notebook
+for actual deteails on the project read the readme jupyter notebook<br/>
+https://github.com/guyAmit/movie-lens-1m-dataset-clustering/blob/master/readme.ipynb
+
