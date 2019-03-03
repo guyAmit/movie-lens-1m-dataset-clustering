@@ -1,27 +1,9 @@
 
-Jupyter Notebook
-readme for mini project data analysis Last Checkpoint: an hour ago (unsaved changes) Current Kernel Logo
-
-Python 3
-
-    File
-    Edit
-    View
-    Insert
-    Cell
-    Kernel
-    Widgets
-    Help
-
 # Clustering of the M1-movielens dataset
-
-​
 
 ## clarifications:
 
 this is a university assignment. the definitions below belongs to dr.sabto at the Ben gurion University. the implementation and the algorithms are mine ([guyAmit](https://github.com/guyAmit)) and yuval hadad(no github yet)
-
-​
 
 ## goal:
 
