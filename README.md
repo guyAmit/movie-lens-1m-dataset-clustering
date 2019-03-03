@@ -3,7 +3,7 @@
 
 ## clarifications:
 
-this is a university assignment. the definitions below belongs to dr.sabto at the Ben gurion University. the implementation and the algorithms are mine ([guyAmit](https://github.com/guyAmit)) and yuval hadad(no github yet). <br\>
+this is a university assignment. the definitions below belongs to dr.sabto at the Ben gurion University. the implementation and the algorithms are mine ([guyAmit](https://github.com/guyAmit)) and yuval hadad(no github yet). 
 this repo is protected under M.I.T license
 
 ## info on the project
